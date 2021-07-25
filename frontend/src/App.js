@@ -6,7 +6,6 @@ import Homepage from './Homepage';
 // https://reactrouter.com/web/api/BrowserRouter
 
 /**
- * Simple component with no state.
  *
  * @return {object} JSX
  */

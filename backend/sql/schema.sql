@@ -1,4 +1,3 @@
--- Your database schema goes here --
 DROP TABLE IF EXISTS person;
 CREATE TABLE person(person_id VARCHAR, person jsonb);
 

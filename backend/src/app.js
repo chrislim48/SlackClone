@@ -29,7 +29,6 @@ app.use(
     }),
 );
 
-// Your routes go here
 app.get('/v0/workspace', auth.check, person.getWorkspace);
 
 app.get('/v0/channel/:workspace', auth.check, person.getChannel);

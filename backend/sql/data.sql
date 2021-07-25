@@ -1,4 +1,3 @@
--- Populate Your Tables Here --
 DELETE FROM person;
 INSERT INTO person(person_id, person) VALUES ('895a624d-6bdc-40d3-8600-070a1f9cd49e',
     '{"email": "molly@books.com",

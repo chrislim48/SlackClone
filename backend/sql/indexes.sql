@@ -1,4 +1,3 @@
--- Index Your Tables Here --
 CREATE INDEX person_idx ON person(person_id, person);
 CREATE INDEX workspace_idx ON workspace(workspace_id, workspace);
 CREATE INDEX person_workspace_idx ON person_workspace(personID, workspaceID);
