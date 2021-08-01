@@ -3,8 +3,6 @@ Slack Website
 
 A Full Stack Web Application of a Slack clone
 
-React, Express.js, Node.js, PostgreSQL
-
 Steps to run the web application:
 1. Go to the folder where you extracted the code
 2. Run 'npm install'
