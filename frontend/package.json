@@ -1,10 +1,7 @@
 {
-  "name": "cse183-assignment8-frontend",
+  "name": "frontend",
   "version": "1.0.0",
-  "description": "CSE183 Assignment 8 - Frontend",
-  "author": "David Harrison <dcharris@ucsc.edu>",
-  "license": "UNLICENSED",
-  "repository": "none",
+  "description": "frontend",
   "proxy": "http://localhost:3010",
   "dependencies": {
     "@material-ui/core": "^4.11.4",

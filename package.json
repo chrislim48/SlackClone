@@ -1,10 +1,7 @@
 {
-  "name": "cse183-assignment8",
+  "name": "slack-website",
   "version": "1.0.0",
-  "description": "CSE183 Assignment 8",
-  "author": "David Harrison <dcharris@ucsc.edu>",
-  "license": "UNLICENSED",
-  "repository": "none",
+  "description": "Slack Website",
   "devDependencies": {
     "bestzip": "^2.1.7"
   },

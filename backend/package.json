@@ -1,10 +1,7 @@
 {
-  "name": "cse183-assignment8-backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "CSE183 Assignment 8 - Backend",
-  "author": "David Harrison <dcharris@ucsc.edu>",
-  "license": "UNLICENSED",
-  "repository": "none",
+  "description": "backend",
   "devDependencies": {
     "eslint": "^7.30.0",
     "eslint-config-google": "^0.14.0",

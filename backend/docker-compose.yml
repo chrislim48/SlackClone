@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   postgres:
-    container_name: cse183-assignment8-backend
+    container_name: slack-website-backend
     image: postgres
     environment:
       POSTGRES_DB: ${POSTGRES_DB}
